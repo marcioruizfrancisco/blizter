@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="public_html/admin"/>
+	<buildpathentry kind="src" path="public_html/utils/vendors/jquery-ui-1.10.4.custom/development-bundle/demos/autocomplete"/>
+	<buildpathentry kind="src" path="public_html/utils/vendors/jquery-ui-1.10.4.custom/development-bundle/demos/tabs/ajax"/>
+	<buildpathentry kind="src" path="public_html/web"/>
+	<buildpathentry kind="src" path="system/core"/>
+	<buildpathentry kind="src" path="system/database"/>
+	<buildpathentry kind="src" path="system/helpers"/>
+	<buildpathentry kind="src" path="system/language/english"/>
+	<buildpathentry kind="src" path="system/libraries"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
