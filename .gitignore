@@ -4,3 +4,5 @@
 */cache/*
 */cache/!index.html
 */cache/!.htaccess
+*/public_html/backup/
+*/public_html/images/system/
