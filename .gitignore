@@ -1,8 +1,2 @@
-*/config/development
-*/logs/log-*.php
-*/logs/!index.html
-*/cache/*
-*/cache/!index.html
-*/cache/!.htaccess
-*/public_html/backup/
-*/public_html/images/system/
+*/public_html/images/users/
+*/public_html/backup/*
